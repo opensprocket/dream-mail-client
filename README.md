@@ -1,7 +1,7 @@
-# dream-mail-client
+# Dream-mail-client
 Wishlist for a mail client. Because all of the others can't seem to get it right. Might include a proof-of-concept at somepoint in the future.
 
-## Disclaimer/Foreword:
+## Disclaimer/Foreword
 
 This is a list of things I think could/would/should be in a mail client. In a perfect world, all of the things I list in here would make it into a release of the client. 
 
