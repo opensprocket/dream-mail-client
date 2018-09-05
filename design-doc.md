@@ -16,9 +16,9 @@ Fundamentals:
 ## Functionality
 
 - Standard Mail features
--- Send/recive
--- CC & BCC
--- 
+    * Send/recive
+    * CC & BCC
+- 
 ## Reference Articles
 
 - https://www.pcworld.com/article/3297801/software/newtons-shutdown-means-windows-users-are-losing-the-only-good-email-app-its-not-gmail.html
