@@ -10,7 +10,7 @@ I'd like to think of this mostly as a evolving list. At somepoint, it'll be made
 
 Overall, the experience should follow these principles listed below.
 
-Fundamentals: 
+### Fundamentals: 
 - Clean
 - Fast
 - Focused
@@ -28,13 +28,14 @@ Ultimately, it should get out of your way and let you get work done.
 
 
 
-## Functionality and Features
+# Functionality and Features
 
 - Basic features
     * Send/recive
     * To & From
     * CC & BCC
     * Drafts
+    * Send-as (choose which account you want to send from)
 - Contacts
     * Groups
     * Individuals
@@ -89,7 +90,7 @@ Ultimately, it should get out of your way and let you get work done.
 
 Nothing here yet, just a placeholder.
 
-## Reference Articles for Idea's
+# Idea Mining/Reference Articles
 
 - PC World Article about Newton:
     * https://www.pcworld.com/article/3297801/software/newtons-shutdown-means-windows-users-are-losing-the-only-good-email-app-its-not-gmail.html
