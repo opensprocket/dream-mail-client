@@ -1,5 +1,7 @@
 # Design Doc for Dream Mail Client
 
+[Click here to go back to the main page.](www.github.com/opensprocket/dream-mail-client)
+
 ## Disclaimer/Foreword:
 
 This is a list of things I think could/would/should be in a mail client. In a perfect world, all of the things I list in here would make it into a release of the client. 
@@ -25,8 +27,6 @@ As part of this, good workflows and macro's/shortcuts should be available. Some 
 Another aspect that would be good is having modularity. Allowing you to reload compoents on the fly, rather than having to restart the program completely. This would allow for faster troubleshooting and customization. 
 
 Ultimately, it should get out of your way and let you get work done. 
-
-
 
 # Functionality and Features
 
